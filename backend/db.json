@@ -64,5 +64,326 @@
       "image": "/images/gallery/gallery-8.jpg",
       "category": "cupcakes"
     }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Fairytale Brownies",
+      "discount": 23,
+      "price": 30,
+      "score": 4.5,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/single-product-1.png",
+        "/images/products/product-7.png",
+        "/images/products/product-8.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Chocolate Biscuits",
+      "price": 13,
+      "score": 3.8,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-2.png",
+        "/images/products/product-8.png",
+        "/images/products/product-3.png"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Soft Biscuits",
+      "price": 17,
+      "score": 4.5,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/product-3.png",
+        "/images/products/product-9.png",
+        "/images/products/product-5.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Drop Biscuits",
+      "price": 11,
+      "score": 3,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-4.png",
+        "/images/products/product-5.png",
+        "/images/products/product-9.png"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Vegan Cookies",
+      "price": 15,
+      "score": 3,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-5.png",
+        "/images/products/product-4.png",
+        "/images/products/product-2.png"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Chocolate Truffles",
+      "discount": 23,
+      "price": 32,
+      "score": 3,
+      "category": "cakes",
+      "sources": [
+        "/images/products/single-product-1.png",
+        "/images/products/single-product-2.png",
+        "/images/products/single-product-3.png"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Chocolate Pudding",
+      "price": 25,
+      "score": 3,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-7.png",
+        "/images/products/product-8.png",
+        "/images/products/product-1.png"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Dark Chocolate Cake",
+      "price": 15,
+      "score": 3,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-8.png",
+        "/images/products/product-1.png",
+        "/images/products/product-6.png"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Chocolate Cookies",
+      "price": 18,
+      "score": 3,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-9.png",
+        "/images/products/product-5.png",
+        "/images/products/product-2.png"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Vanilla Pudding",
+      "price": 20,
+      "score": 4.0,
+      "category": "puddings",
+      "sources": [
+        "/images/products/product-1.png",
+        "/images/products/product-7.png",
+        "/images/products/product-3.png"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Caramel Sweets",
+      "discount": 15,
+      "price": 22,
+      "score": 4.2,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/product-2.png",
+        "/images/products/product-4.png",
+        "/images/products/single-product-1.png"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Lemon Cake",
+      "price": 28,
+      "score": 3.5,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-5.png",
+        "/images/products/product-8.png",
+        "/images/products/product-9.png"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Strawberry Pudding",
+      "price": 19,
+      "score": 3.8,
+      "category": "puddings",
+      "sources": [
+        "/images/products/single-product-2.png",
+        "/images/products/product-6.png",
+        "/images/products/product-3.png"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Butter Cookies",
+      "price": 14,
+      "score": 4.0,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/product-9.png",
+        "/images/products/product-2.png",
+        "/images/products/product-5.png"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Red Velvet Cake",
+      "discount": 20,
+      "price": 35,
+      "score": 4.7,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-8.png",
+        "/images/products/single-product-3.png",
+        "/images/products/product-1.png"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Mango Pudding",
+      "price": 21,
+      "score": 3.9,
+      "category": "puddings",
+      "sources": [
+        "/images/products/product-7.png",
+        "/images/products/product-4.png",
+        "/images/products/product-2.png"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Almond Biscuits",
+      "price": 16,
+      "score": 3.6,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/product-3.png",
+        "/images/products/product-9.png",
+        "/images/products/product-6.png"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Coconut Cake",
+      "price": 27,
+      "score": 4.3,
+      "category": "cakes",
+      "sources": [
+        "/images/products/single-product-1.png",
+        "/images/products/product-5.png",
+        "/images/products/product-8.png"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Hazelnut Truffles",
+      "discount": 25,
+      "price": 29,
+      "score": 4.1,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/product-2.png",
+        "/images/products/single-product-2.png",
+        "/images/products/product-7.png"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Banana Pudding",
+      "price": 18,
+      "score": 3.7,
+      "category": "puddings",
+      "sources": [
+        "/images/products/product-4.png",
+        "/images/products/product-1.png",
+        "/images/products/product-9.png"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Oatmeal Cookies",
+      "price": 12,
+      "score": 3.4,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/product-5.png",
+        "/images/products/product-3.png",
+        "/images/products/product-8.png"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Blueberry Cake",
+      "price": 30,
+      "score": 4.4,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-6.png",
+        "/images/products/single-product-3.png",
+        "/images/products/product-2.png"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Raspberry Pudding",
+      "price": 23,
+      "score": 3.9,
+      "category": "puddings",
+      "sources": [
+        "/images/products/product-7.png",
+        "/images/products/product-4.png",
+        "/images/products/product-1.png"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Peanut Brittle",
+      "discount": 10,
+      "price": 20,
+      "score": 4.0,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/product-8.png",
+        "/images/products/product-9.png",
+        "/images/products/single-product-1.png"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Carrot Cake",
+      "price": 26,
+      "score": 4.2,
+      "category": "cakes",
+      "sources": [
+        "/images/products/product-2.png",
+        "/images/products/product-5.png",
+        "/images/products/product-3.png"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Toffee Sweets",
+      "price": 24,
+      "score": 3.8,
+      "category": "Sweets",
+      "sources": [
+        "/images/products/single-product-2.png",
+        "/images/products/product-6.png",
+        "/images/products/product-7.png"
+      ]
+    }
   ]
 }
