@@ -385,5 +385,115 @@
         "/images/products/product-7.png"
       ]
     }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "path": "/images/blogs/blog-1.jpg",
+      "title": "How to Pipe a Fluffy Frosting Border on a Cake",
+      "desc": "Est velox nuptia, cesaris. Est dexter turpis, cesaris. Cum nixus persuadere, omnes fluctuies promissio flavum"
+    },
+    {
+      "id": 2,
+      "path": "/images/blogs/blog-2.jpg",
+      "title": "Recipe of the Day: Pumpkin Spice Latte Cake",
+      "desc": "Sensorems peregrinatione in rugensis civitas! Ubi est bi-color byssus? Velox, teres ollas recte aperto de castus"
+    },
+    {
+      "id": 3,
+      "path": "/images/blogs/blog-3.jpg",
+      "title": "Top 5 Tips for Successful Cake Baking",
+      "desc": "Talis tus acceleratrix contactuss lixa est. Pol, a bene equiso. Cum nuptia peregrinatione, omnes adgiumes visum"
+    },
+    {
+      "id": 4,
+      "path": "/images/blogs/blog-4.jpg",
+      "title": "10 Easiest Ways to Decorate a Cake",
+      "desc": "Cum zeta experimentum, omnes scutumes fallere domesticus, salvus lapsuses. Neuter, teres calcarias unus"
+    },
+    {
+      "id": 5,
+      "path": "/images/blogs/blog-5.jpg",
+      "title": "Baking Your First Cake: What You Need to Know",
+      "desc": "Orgia, nixus, et zirbus. Vortexs volare in hafnia! Domesticus, dexter pess inciviliter desiderium de fortis"
+    },
+    {
+      "id": 6,
+      "path": "/images/blogs/blog-6.jpg",
+      "title": "How to Make Your Cake Even More Tasty",
+      "desc": "Cur contencio studere? Finis mirabilis buxum est. Ferox lumen grauiter resuscitabos hydra est. Magnum byssus"
+    },
+    {
+      "id": 7,
+      "path": "/images/blogs/blog-1.jpg",
+      "title": "Mastering the Art of Chocolate Ganache",
+      "desc": "Cum flavum crescere, omnes visuses promissio talis, velox cursus. Est audax gluten, cesaris."
+    },
+    {
+      "id": 8,
+      "path": "/images/blogs/blog-2.jpg",
+      "title": "How to Create Stunning Cake Toppers",
+      "desc": "Velox nuptia circumgrediet fortis, domesticus tumultumque. Ubi est pius amicitia? Pol, talis index."
+    },
+    {
+      "id": 9,
+      "path": "/images/blogs/blog-3.jpg",
+      "title": "Best Tools for Perfect Cake Layers",
+      "desc": "Finis dexter capio est. Cum victrix peregrinatione, omnes eraes fallere fortis, salvus imberes."
+    },
+    {
+      "id": 10,
+      "path": "/images/blogs/blog-4.jpg",
+      "title": "Recipe: Classic Vanilla Sponge Cake",
+      "desc": "Cur rector studere? Est clemens buxum, cesaris. Vortexs volare in audax galatae! Neuter, pius navis."
+    },
+    {
+      "id": 11,
+      "path": "/images/blogs/blog-5.jpg",
+      "title": "How to Fix Common Cake Baking Mistakes",
+      "desc": "Magnum, audax tumultumque verecunde desiderium de pius, fortis gluten. Est talis nixus, cesaris."
+    },
+    {
+      "id": 12,
+      "path": "/images/blogs/blog-6.jpg",
+      "title": "Adding Fruit Fillings to Your Cake",
+      "desc": "Cum ignigena crescere, omnes fluctuses promissio audax, rusticus orbes. Pol, a bene castellum."
+    },
+    {
+      "id": 13,
+      "path": "/images/blogs/blog-1.jpg",
+      "title": "Tips for Baking a Moist Red Velvet Cake",
+      "desc": "Vortexs promissio in castus galatae! Ubi est flavum amicitia? Velox, domesticus nuptia recte crescere."
+    },
+    {
+      "id": 14,
+      "path": "/images/blogs/blog-2.jpg",
+      "title": "How to Make Edible Cake Decorations",
+      "desc": "Est pius cladis, cesaris. Cum tumultum experimentum, omnes fluctuies visum domesticus, audax quadraes."
+    },
+    {
+      "id": 15,
+      "path": "/images/blogs/blog-3.jpg",
+      "title": "Guide to Choosing the Right Cake Pan",
+      "desc": "Cur capio studere? Finis mirabilis buxum est. Neuter, talis calcaria unus desiderium de fortis index."
+    },
+    {
+      "id": 16,
+      "path": "/images/blogs/blog-4.jpg",
+      "title": "Secrets to a Perfect Buttercream Frosting",
+      "desc": "Cum amicitia peregrinatione, omnes scutumes fallere flavum, velox orbes. Est dexter navis, cesaris."
+    },
+    {
+      "id": 17,
+      "path": "/images/blogs/blog-5.jpg",
+      "title": "Baking Cakes for Special Occasions",
+      "desc": "Magnum lumen grauiter resuscitabos fortis hydra est. Pol, a bene gluten. Vortexs volare in talis capio."
+    },
+    {
+      "id": 18,
+      "path": "/images/blogs/blog-6.jpg",
+      "title": "How to Pair Cakes with Beverages",
+      "desc": "Cum nixus persuadere, omnes tumultumque promissio audax, rusticus imberes. Ubi est pius castellum?"
+    }
   ]
 }
